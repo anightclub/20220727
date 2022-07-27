@@ -4,6 +4,7 @@ body {
 .calcu {
     background-color: #8de46b;
     border: 5px;
+    width: 1300px;
     border-color: black;
     border-style: double;
     border-radius: 13px;
